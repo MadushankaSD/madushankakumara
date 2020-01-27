@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36175473-bb6b-49cc-ab90-4e183cc94c1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/io.madushanka.cv/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/home-fullpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/io.madushanka.cv/home-fullpage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/image/B - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/home-fullpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/io.madushanka.cv/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +68,8 @@
       <workItem from="1579964282270" duration="8750000" />
       <workItem from="1580053278115" duration="1954000" />
       <workItem from="1580097502402" duration="1837000" />
-      <workItem from="1580103602774" duration="13077000" />
+      <workItem from="1580103602774" duration="15183000" />
+      <workItem from="1580120354473" duration="6969000" />
     </task>
     <servers />
   </component>
@@ -84,10 +81,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="416" y="147" width="524" height="497" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741@0.27.1366.741" timestamp="1580097511420" />
-    <state x="367" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1580103601503">
+    <state x="367" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1580120370623">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="367" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1580103601503" />
+    <state x="367" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1580120370623" />
     <state x="237" y="222" width="1119" height="542" key="new project wizard" timestamp="1579964295537">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
