@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36175473-bb6b-49cc-ab90-4e183cc94c1e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WtM8anhDnDGprk5I9qHGEPQryR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/io.madushanka.cv" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/io.madushanka.cv" />
+      <recent name="$PROJECT_DIR$/io.madushanka.cv/js" />
+      <recent name="$PROJECT_DIR$/io.madushanka.cv/html/css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/io.madushanka.cv" />
+      <recent name="$PROJECT_DIR$/io.madushanka.cv/js" />
+      <recent name="$PROJECT_DIR$/io.madushanka.cv/image" />
+      <recent name="$PROJECT_DIR$/io.madushanka.cv/font" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36175473-bb6b-49cc-ab90-4e183cc94c1e" name="Default Changelist" comment="" />
+      <created>1579964278652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579964278652</updated>
+      <workItem from="1579964282270" duration="8750000" />
+      <workItem from="1580053278115" duration="1954000" />
+      <workItem from="1580097502402" duration="1837000" />
+      <workItem from="1580103602774" duration="3830000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="416" y="147" width="524" height="497" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580097511420">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="416" y="147" width="524" height="497" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741@0.27.1366.741" timestamp="1580097511420" />
+    <state x="367" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1580103601503">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="367" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1580103601503" />
+    <state x="237" y="222" width="1119" height="542" key="new project wizard" timestamp="1579964295537">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="237" y="222" width="1119" height="542" key="new project wizard/0.27.1366.741@0.27.1366.741" timestamp="1579964295537" />
+  </component>
+</project>
