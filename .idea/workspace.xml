@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36175473-bb6b-49cc-ab90-4e183cc94c1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/io.madushanka.cv/image/degree.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/io.madushanka.cv/image/library.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/io.madushanka.cv/image/madushankakumara.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/io.madushanka.cv/image/posnew.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/io.madushanka.cv/image/web.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/image/Background.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/image/social.png" beforeDir="false" afterPath="$PROJECT_DIR$/io.madushanka.cv/image/social.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/io.madushanka.cv/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/io.madushanka.cv/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +69,7 @@
       <workItem from="1580053278115" duration="1954000" />
       <workItem from="1580097502402" duration="1837000" />
       <workItem from="1580103602774" duration="15183000" />
-      <workItem from="1580120354473" duration="21379000" />
+      <workItem from="1580120354473" duration="23439000" />
     </task>
     <servers />
   </component>
