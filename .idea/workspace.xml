@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36175473-bb6b-49cc-ab90-4e183cc94c1e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/io.madushanka.cv/image/degree.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io.madushanka.cv/image/library.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io.madushanka.cv/image/madushankakumara.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io.madushanka.cv/image/posnew.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/io.madushanka.cv/image/web.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/home-fullpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/io.madushanka.cv/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/image/Background.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/image/social.png" beforeDir="false" afterPath="$PROJECT_DIR$/io.madushanka.cv/image/social.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/io.madushanka.cv/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,20 +46,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/io.madushanka.cv" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/io.madushanka.cv/image" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/io.madushanka.cv/image" />
+      <recent name="$PROJECT_DIR$/io.madushanka.cv" />
+      <recent name="$PROJECT_DIR$/io.madushanka.cv/js" />
+      <recent name="$PROJECT_DIR$/io.madushanka.cv/font" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/io.madushanka.cv" />
       <recent name="$PROJECT_DIR$/io.madushanka.cv/js" />
       <recent name="$PROJECT_DIR$/io.madushanka.cv/html/css" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/io.madushanka.cv" />
-      <recent name="$PROJECT_DIR$/io.madushanka.cv/js" />
-      <recent name="$PROJECT_DIR$/io.madushanka.cv/image" />
-      <recent name="$PROJECT_DIR$/io.madushanka.cv/font" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -69,7 +76,7 @@
       <workItem from="1580053278115" duration="1954000" />
       <workItem from="1580097502402" duration="1837000" />
       <workItem from="1580103602774" duration="15183000" />
-      <workItem from="1580120354473" duration="6969000" />
+      <workItem from="1580120354473" duration="21379000" />
     </task>
     <servers />
   </component>
@@ -77,10 +84,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="416" y="147" width="524" height="497" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580097511420">
+    <state x="416" y="147" width="524" height="497" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580143414868">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="416" y="147" width="524" height="497" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741@0.27.1366.741" timestamp="1580097511420" />
+    <state x="416" y="147" width="524" height="497" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741@0.27.1366.741" timestamp="1580143414868" />
     <state x="367" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1580120370623">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
