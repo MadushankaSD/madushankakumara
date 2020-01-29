@@ -195,3 +195,16 @@
 	}
 
 })(jQuery);
+
+var word = ['Full Stack Developer','Web Developer','Inventor','Java Developer','Fast Lerner']
+
+var i =0;
+function changemyfield() {
+
+	$("#myanimation").text(word[i]);
+	i++;
+	if(i==5){
+		i=0;
+	}
+}
+setInterval(changemyfield,2000);
