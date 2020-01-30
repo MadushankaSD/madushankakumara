@@ -196,7 +196,7 @@
 
 })(jQuery);
 
-var word = ['Full Stack Developer','Web Developer','Inventor','Java Developer','Fast Lerner']
+var word = ['Full Stack Developer','Web Developer','Inventor','Java Developer','Fast Learner'];
 
 var i =0;
 function changemyfield() {
