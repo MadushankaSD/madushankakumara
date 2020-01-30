@@ -3,28 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="36175473-bb6b-49cc-ab90-4e183cc94c1e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/font-awesome.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/css/jquery.fullPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/jquery.fullPage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/css/jquery.pagepiling.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/jquery.pagepiling.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/css/linearicons.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/linearicons.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/css/owl.carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/owl.carousel.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/font/css" beforeDir="false" afterPath="$PROJECT_DIR$/font/css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/image/degree.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/degree.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/image/library.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/library.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/image/madushankakumara.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/image/madushankakumara.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/image/posnew.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/posnew.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/image/social.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/social.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/image/web.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/web.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/js/jquery.pagepiling.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.pagepiling.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/js/jquery.validate.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/jquery.validate.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/js/owl.carousel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/owl.carousel.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/io.madushanka.cv/js/smoothscroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/smoothscroll.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,16 +43,17 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/io.madushanka.cv" />
+      <recent name="$PROJECT_DIR$/io.madushanka.cv/js" />
+      <recent name="$PROJECT_DIR$/io.madushanka.cv/html/css" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/io.madushanka.cv/image" />
       <recent name="$PROJECT_DIR$/io.madushanka.cv" />
       <recent name="$PROJECT_DIR$/io.madushanka.cv/js" />
       <recent name="$PROJECT_DIR$/io.madushanka.cv/font" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/io.madushanka.cv" />
-      <recent name="$PROJECT_DIR$/io.madushanka.cv/js" />
-      <recent name="$PROJECT_DIR$/io.madushanka.cv/html/css" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -92,7 +72,8 @@
       <workItem from="1580103602774" duration="15183000" />
       <workItem from="1580120354473" duration="23841000" />
       <workItem from="1580285996282" duration="3874000" />
-      <workItem from="1580362993921" duration="1069000" />
+      <workItem from="1580362993921" duration="1226000" />
+      <workItem from="1580365624007" duration="592000" />
     </task>
     <servers />
   </component>
