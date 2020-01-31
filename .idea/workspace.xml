@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36175473-bb6b-49cc-ab90-4e183cc94c1e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/image/madushankakumara.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/madushankakumara.JPG" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/smoothscroll.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +19,20 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,18 +62,18 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/io.madushanka.cv" />
+      <recent name="$PROJECT_DIR$/io.madushanka.cv/js" />
+      <recent name="$PROJECT_DIR$/io.madushanka.cv/html/css" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/image" />
       <recent name="$PROJECT_DIR$/io.madushanka.cv/image" />
       <recent name="$PROJECT_DIR$/io.madushanka.cv" />
       <recent name="$PROJECT_DIR$/io.madushanka.cv/js" />
       <recent name="$PROJECT_DIR$/io.madushanka.cv/font" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/io.madushanka.cv" />
-      <recent name="$PROJECT_DIR$/io.madushanka.cv/js" />
-      <recent name="$PROJECT_DIR$/io.madushanka.cv/html/css" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -77,7 +95,9 @@
       <workItem from="1580362993921" duration="1226000" />
       <workItem from="1580365624007" duration="4038000" />
       <workItem from="1580382972942" duration="1768000" />
-      <workItem from="1580395131583" duration="325000" />
+      <workItem from="1580395131583" duration="4669000" />
+      <workItem from="1580441967708" duration="10000" />
+      <workItem from="1580496375922" duration="66000" />
     </task>
     <servers />
   </component>
@@ -85,18 +105,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="416" y="147" width="524" height="497" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580143414868">
+    <state x="416" y="147" width="524" height="497" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580496393020">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="416" y="147" width="524" height="497" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741@0.27.1366.741" timestamp="1580143414868" />
+    <state x="416" y="147" width="524" height="497" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741@0.27.1366.741" timestamp="1580496393020" />
     <state x="466" y="155" width="424" height="480" key="FileChooserDialogImpl" timestamp="1580287649247">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="466" y="155" width="424" height="480" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1580287649247" />
-    <state x="367" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1580395130928">
+    <state x="367" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1580441970771">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="367" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1580395130928" />
+    <state x="367" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1580441970771" />
     <state x="237" y="222" width="1119" height="542" key="new project wizard" timestamp="1579964295537">
       <screen x="0" y="27" width="1366" height="741" />
     </state>

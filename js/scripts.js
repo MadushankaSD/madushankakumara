@@ -208,3 +208,18 @@ function changemyfield() {
 	}
 }
 setInterval(changemyfield,2000);
+
+
+/*send mail*/
+
+/*function sendEmail() {
+	Email.send({
+		SecureToken : "<your generated token>",
+		To : 'slcupid.sl@gmail.com',
+		From : "",
+		Subject : "Test Email",
+		Body : "<html><h2>Header</h2><strong>Bold text</strong><br></br><em>Italic</em></html>"
+	}).then(
+		message => alert("mail sent successfully")
+	);
+}*/
