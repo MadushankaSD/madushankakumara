@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36175473-bb6b-49cc-ab90-4e183cc94c1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/image/madushankakumara.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/madushankakumara.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/smoothscroll.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +91,9 @@
       <workItem from="1580382972942" duration="1768000" />
       <workItem from="1580395131583" duration="4669000" />
       <workItem from="1580441967708" duration="10000" />
-      <workItem from="1580496375922" duration="66000" />
+      <workItem from="1580496375922" duration="774000" />
+      <workItem from="1580534641734" duration="607000" />
+      <workItem from="1580548529539" duration="89000" />
     </task>
     <servers />
   </component>
@@ -105,18 +101,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="416" y="147" width="524" height="497" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580496393020">
+    <state x="416" y="147" width="524" height="497" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580550468511">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="416" y="147" width="524" height="497" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741@0.27.1366.741" timestamp="1580496393020" />
+    <state x="416" y="147" width="524" height="497" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741@0.27.1366.741" timestamp="1580550468511" />
     <state x="466" y="155" width="424" height="480" key="FileChooserDialogImpl" timestamp="1580287649247">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="466" y="155" width="424" height="480" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1580287649247" />
-    <state x="367" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1580441970771">
+    <state x="367" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1580536458842">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="367" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1580441970771" />
+    <state x="367" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1580536458842" />
     <state x="237" y="222" width="1119" height="542" key="new project wizard" timestamp="1579964295537">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
