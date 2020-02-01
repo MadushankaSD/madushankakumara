@@ -56,18 +56,18 @@
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/io.madushanka.cv" />
-      <recent name="$PROJECT_DIR$/io.madushanka.cv/js" />
-      <recent name="$PROJECT_DIR$/io.madushanka.cv/html/css" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/image" />
       <recent name="$PROJECT_DIR$/io.madushanka.cv/image" />
       <recent name="$PROJECT_DIR$/io.madushanka.cv" />
       <recent name="$PROJECT_DIR$/io.madushanka.cv/js" />
       <recent name="$PROJECT_DIR$/io.madushanka.cv/font" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/io.madushanka.cv" />
+      <recent name="$PROJECT_DIR$/io.madushanka.cv/js" />
+      <recent name="$PROJECT_DIR$/io.madushanka.cv/html/css" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -94,6 +94,7 @@
       <workItem from="1580496375922" duration="774000" />
       <workItem from="1580534641734" duration="607000" />
       <workItem from="1580548529539" duration="89000" />
+      <workItem from="1580550442819" duration="1337000" />
     </task>
     <servers />
   </component>
